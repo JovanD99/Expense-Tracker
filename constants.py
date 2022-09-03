@@ -1,0 +1,14 @@
+BLACK = (0, 0, 0)
+BLACKISH = (10, 10, 10)
+GREY = (128, 128, 128)
+WHITE = (255, 255, 255)
+BACKGROUND_COLOR = (0, 180, 180)
+WINDOW_WIDTH = 900
+WINDOW_HEIGHT = 550
+FRAMES_PER_SECOND = 30
+
+MAIN_SCENE = "main scene"
+NEXT_SCENE = "next scene"
+MONTHLY_SCENE = "monthly scene"
+
+GET_DATA = "get data"
